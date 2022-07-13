@@ -1,0 +1,21 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.codeActionsOnSave": {
+      "source.sortImports": true,
+      "source.fixAll.eslint": true
+    },
+    "prettier.bracketSpacing": true,
+    "files.associations": {
+      "*.json": "jsonc"
+    },
+    "editor.tabSize": 2,
+    "editor.wordWrapColumn": 100,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  

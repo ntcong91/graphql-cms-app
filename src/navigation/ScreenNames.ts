@@ -1,0 +1,9 @@
+export default {
+  TAB_HOME: 'TAB_HOME',
+  TAB_SHOP: 'TAB_SHOP',
+  TAB_FAVORITES: 'TAB_FAVORITES',
+
+  HOME: 'HOME',
+  FAVORITES: 'FAVORITES',
+  SHOP: 'SHOP',
+} as const;

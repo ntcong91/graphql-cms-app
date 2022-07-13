@@ -1,0 +1,27 @@
+query getProducts {
+  products {
+    id
+    productID
+    name
+    price
+    priceSign
+    stage
+    apiFeaturedImage
+    category
+    brand
+    currency
+    description
+    createdBy {
+      id
+      isActive
+      kind
+      name
+      picture
+      publishedAt
+      stage
+      picture
+      updatedAt
+      createdAt
+    }
+  }
+}
